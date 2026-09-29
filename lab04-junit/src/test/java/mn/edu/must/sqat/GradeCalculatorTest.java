@@ -106,7 +106,7 @@ public class GradeCalculatorTest {
             calc.totalScore(10.0, 41.0, 10.0, 10.0, 30.0);
         });
     }
-
+// parameter test
     @ParameterizedTest
     @CsvSource({
         "10, 40, 10, 10, 30, 100",
