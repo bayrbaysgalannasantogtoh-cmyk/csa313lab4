@@ -9,6 +9,10 @@ Java Version
   openjdk version "17.0.11"
   OpenJDK Runtime Environment (build 17.0.11+11-Ubuntu-1ubuntu220.04)
   OpenJDK Guest 64-Bit Server VM (build 17.0.11+11-Ubuntu-1ubuntu220.04)
+  Apache Maven 3.9.12
+  Java version: 17.0.20.1, vendor: Ubuntu, runtime: /usr/lib/jvm/java-17-openjdk-amd64 
+  Default locale: en, platform encoding: UTF-8
+  OS name: "linux", version: "6.18.33.2-microsoft-standard-wsl2", arch: "amd64", family: "unix"
 
 Тестийн гүйцэтгэл
 
